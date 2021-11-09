@@ -2,14 +2,18 @@
 
 - 240613
 
-2. W​hich "Unit Type" is the most common?
+2. How large is our fireCalls dataset in memory? Input just the numeric value (e.g. 51.2)
+
+-59.6
+
+3. W​hich "Unit Type" is the most common?
 
 - ENGINE
 
-3. W​hat type of transformation, wide or narrow, did the 'GROUP BY' and 'ORDER BY' queries result in?
+4. W​hat type of transformation, wide or narrow, did the 'GROUP BY' and 'ORDER BY' queries result in?
 
 - Wide
 
-4. H​ow many tasks were in the last stage of the last job?
+5. Looking at the query below, how many tasks are in the last stage of the last job?
 
-- 2
+- 1
