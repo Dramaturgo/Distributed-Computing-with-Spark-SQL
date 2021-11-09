@@ -4,7 +4,7 @@
 
 2. How large is our fireCalls dataset in memory? Input just the numeric value (e.g. 51.2)
 
--59.6
+- 59.6
 
 3. W​hich "Unit Type" is the most common?
 
