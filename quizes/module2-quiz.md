@@ -34,9 +34,11 @@
 
 -  Transfer the smaller of two tables to the larger, minimizing data transfer
 
-7. When is it appropriate to use a shuffle join?
+7. Adaptive Query Execution uses runtime statistics to:
 
-- When both tables are moderately sized or large
+- Dynamically coalesce shuffle partitions
+- Dynamically switch join strategies
+- Dynamically optimize skew joins
 
 8. Which of the following are bottlenecks you can detect with the Spark UI? (Select all that apply.)
 
