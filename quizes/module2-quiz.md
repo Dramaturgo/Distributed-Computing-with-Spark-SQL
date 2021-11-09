@@ -37,7 +37,9 @@
 7. Adaptive Query Execution uses runtime statistics to:
 
 - Dynamically coalesce shuffle partitions
+
 - Dynamically switch join strategies
+ 
 - Dynamically optimize skew joins
 
 8. Which of the following are bottlenecks you can detect with the Spark UI? (Select all that apply.)
